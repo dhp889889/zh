@@ -1,4 +1,4 @@
-﻿# 代理列表
+# 代理列表
 
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,binance.com
 
 # 国外域名
 DOMAIN-SUFFIX,eu
